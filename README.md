@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huan</h1>
-<h3 align="center"> 👀 I’m interested in C++, Python, IOT, Image processing</h3>
 
-- 🌱 I am learning to build an IOT system 
+- 👀 I’m interested in C++, Python, IOT, Image processing
 
 - 🔭 I’m currently working on ESP32, ESP8266
 

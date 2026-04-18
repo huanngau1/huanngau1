@@ -6,7 +6,7 @@
 
 - 💬 Ask me about [VI]()
 
-- 📫 How to reach me [Facebook](https://www.facebook.com/huan.au.7) | [Gmail]()
+- 📫 How to reach me [Facebook]() | [Gmail]()
 
 
 
